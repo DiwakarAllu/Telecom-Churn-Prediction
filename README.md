@@ -57,7 +57,8 @@ The project was completed in 15 days.
 
 ## Data
 
-The project utilized a dataset with (mention the number) records, including customer information, call records, plan details, and churn labels.
+The project utilized a dataset with (7046) records, including customer information, call records, plan details, and churn labels.
+Source : https://www.kaggle.com/blastchar/telco-customer-churn ( IBM Sample dataset)
 
 ## Data Preparation
 
