@@ -1,4 +1,4 @@
-# Telecom Churn Prediction
+# Telecom Customer Churn Prediction
 
 This project aims to predict customer churn in the telecom industry, helping telecom companies reduce churn rates and improve profitability.
 
