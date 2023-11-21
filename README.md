@@ -99,3 +99,4 @@ The best-performing model, including its specifications, was chosen.
 ## Deployment
 
 The model was deployed as a Flask web application for real-time predictions.
+- https://04c7-175-101-108-29.ngrok-free.app/ 
