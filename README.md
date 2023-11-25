@@ -2,7 +2,7 @@
 
 This project aims to predict customer churn in the telecom industry, helping telecom companies reduce churn rates and improve profitability.
 
-## Table of Contents 
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
